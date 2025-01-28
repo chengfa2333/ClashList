@@ -8,11 +8,11 @@ DOMAIN-SUFFIX,moezone.dev
 DOMAIN-SUFFIX,dmhy.anoneko.com
 DOMAIN-SUFFIX,vndb.org
 DOMAIN-SUFFIX,2dfan.com
-DOMAIN-SUFFIX,www.ggbases.com
-DOMAIN-SUFFIX,youyun666.com
+DOMAIN-SUFFIX,ggbases.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
+DOMAIN-KEYWORD,youyun
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
