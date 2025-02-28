@@ -17,6 +17,8 @@ DOMAIN-SUFFIX,aicoin.com
 DOMAIN-SUFFIX,youyun666.com
 DOMAIN-SUFFIX,hongxingdl.com
 DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,capcom.com
+DOMAIN-SUFFIX,capcomjp-router.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
