@@ -21,7 +21,7 @@ DOMAIN-SUFFIX,capcom.com
 DOMAIN-SUFFIX,capcomjp-router.com
 DOMAIN-SUFFIX,www.mhh1.com
 DOMAIN-SUFFIX,www.ai2.moe
-DOMAIN-SUFFIX,miaodi.zeabur.app/
+DOMAIN-SUFFIX,miaodi.zeabur.app
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
