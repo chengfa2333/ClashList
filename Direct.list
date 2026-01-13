@@ -26,6 +26,10 @@ IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
 
 #okx
+DOMAIN-SUFFIX,okxwspri.dwsrdo.com
+DOMAIN-SUFFIX,okx-dns.com
+DOMAIN-SUFFIX,okx-dns1.com
+DOMAIN-SUFFIX,okx-dns2.com
 DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,web3.okx.com.cdn
 DOMAIN-SUFFIX,www.okx.com.cdn
